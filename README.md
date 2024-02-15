@@ -1,2 +1,3 @@
 # NextflowDev
-Docker image with Nextflow for local developement of pipelines
+
+Docker image with [Nextflow](https://www.nextflow.io) for local development of bioinfo pipelines
